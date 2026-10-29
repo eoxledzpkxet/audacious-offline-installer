@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Audacious Free Installer** — Audacious is a lightweight, open-source audio player for Linux and Windows inspired by Winamp. Works without internet access, no account required. Full offline installation.
+**💻 Audacious Free Installer** — Audacious is a free, open-source audio player for Windows and Linux with a lightweight design and broad codec support. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Audacious
 
-Audacious is a lightweight, open-source audio player for Linux and Windows inspired by Winamp. It features a classic playlist-based interface, extensive codec support, a Winamp skin compatibility mode, and a library of plugins for visualization and audio processing.
+Audacious is a free, open-source audio player for Windows and Linux with a lightweight design and broad codec support. Featuring a plugin architecture, Audacious supports both a classic Winamp-style skin interface and a modern album art playlist view. With FLAC, MP3, AAC, Ogg Vorbis, and many other formats supported, Audacious is a capable, minimal music player focused on audio quality.
 
 ---
 
 ## ❌ Problem: Audacious is hard to access
 
-- **Winamp-Style Interface** — Traditional UI not appealing to users expecting modern music apps
-- **Linux-Primary** — Windows version less actively maintained and tested
-- **Limited Streaming** — No built-in streaming service integration
-- **Small Development Team** — Updates arrive infrequently compared to mainstream players
+- **Linux Primary** — Originally Linux-focused; Windows port less actively maintained
+- **Streaming Services** — No integration with modern music streaming platforms
+- **Interface Dated** — Design philosophy reflects an older media player era
+- **Library Management** — Basic library organization compared to full-featured players
 
 ---
 
@@ -121,7 +121,7 @@ Audacious is a lightweight, open-source audio player for Linux and Windows inspi
 
 ---
 
-**Audacious Free Installer** — Audacious is a lightweight, open-source audio player for Linux and Windows inspired by Winamp. Install without internet connection today!
+**Audacious Free Installer** — Audacious is a free, open-source audio player for Windows and Linux with a lightweight design and broad codec support. Install without internet connection today!
 
 <div align="center">
 
